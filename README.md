@@ -1,2 +1,3 @@
 # insurance_prediction
-*Python*         Notebook for insurance prediction using Regression.
+**Python**
+Notebook for insurance prediction using Regression.
