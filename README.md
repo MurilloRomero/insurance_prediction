@@ -1,3 +1,2 @@
 # insurance_prediction
-**Python**
-Notebook for insurance prediction using Regression.
+Regression Prediction of Medical Insurance.
